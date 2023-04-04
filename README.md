@@ -5,8 +5,13 @@
 This repository is a day-by-day tracker of my competitive coding practice and C++ programming, starting everything from scratch, on April 2nd 2023.
 
 ## Day 1
-
 - Hello World program
 - Sum Program
 - Bin, Oct, Hex to Dec programs
 - Dec to Bin, Oct, Hex programs
+
+## Day 2
+- Basic Array Operations
+- Sum of Two Binary Numbers
+- Linear Search
+- Binary Search
