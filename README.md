@@ -19,3 +19,8 @@ This repository is a day-by-day tracker of my competitive coding practice and C+
 ## Day 3
 - Range of Numbers between Min Odd and Max Even in Ascending Order
 - Is every element of the list greater than or equal to K
+
+## Day 4
+- Selection Sort
+- Bubble Sort
+- Insertion Sort
