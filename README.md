@@ -15,3 +15,7 @@ This repository is a day-by-day tracker of my competitive coding practice and C+
 - Sum of Two Binary Numbers
 - Linear Search
 - Binary Search
+
+## Day 3
+- Range of Numbers between Min Odd and Max Even in Ascending Order
+- Is every element of the list greater than or equal to K
