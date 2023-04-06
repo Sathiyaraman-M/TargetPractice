@@ -24,3 +24,6 @@ This repository is a day-by-day tracker of my competitive coding practice and C+
 - Selection Sort
 - Bubble Sort
 - Insertion Sort
+
+## Day 5
+- Inverted Triangle Pattern With Numbers
