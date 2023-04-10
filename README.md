@@ -27,3 +27,9 @@ This repository is a day-by-day tracker of my competitive coding practice and C+
 
 ## Day 5
 - Inverted Triangle Pattern With Numbers
+
+## Day 6 - 8 
+No Progress
+
+## Day 9
+- Check for Consecutive Repeating Alphabets more than twice and mark the input as Invalid else mark as Valid
