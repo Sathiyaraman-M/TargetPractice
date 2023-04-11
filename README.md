@@ -33,3 +33,7 @@ No Progress
 
 ## Day 9
 - Check for Consecutive Repeating Alphabets more than twice and mark the input as Invalid else mark as Valid
+
+## Day 10
+- Add K with Multiples of K in a given list
+- Print K alphabets from a given lowercase alphabet character in reverse order
