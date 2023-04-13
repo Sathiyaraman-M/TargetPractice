@@ -37,3 +37,10 @@ No Progress
 ## Day 10
 - Add K with Multiples of K in a given list
 - Print K alphabets from a given lowercase alphabet character in reverse order
+
+## Day 11
+- Number Sequence in Zig-Zag Matrix from top right position
+
+## Day 12
+- Sum of Largest Digits in a given set of numbers
+- N x N matrix with asterisks in upper-left triangular matrix and number sequence in lower-right triangular matrix
