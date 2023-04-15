@@ -44,3 +44,9 @@ No Progress
 ## Day 12
 - Sum of Largest Digits in a given set of numbers
 - N x N matrix with asterisks in upper-left triangular matrix and number sequence in lower-right triangular matrix
+
+## Day 13
+No Progress
+
+## Day 14
+- Remove Tenth Digit from a number
