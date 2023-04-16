@@ -50,3 +50,7 @@ No Progress
 
 ## Day 14
 - Remove Tenth Digit from a number
+
+## Day 15
+- Check whether the given matrix is symmetric or not
+- String with most consonants among given list of strings
