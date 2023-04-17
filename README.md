@@ -54,3 +54,6 @@ No Progress
 ## Day 15
 - Check whether the given matrix is symmetric or not
 - String with most consonants among given list of strings
+
+## Day 16
+- Print which is majority in a string - Vowels or Consonants
