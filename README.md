@@ -57,3 +57,6 @@ No Progress
 
 ## Day 16
 - Print which is majority in a string - Vowels or Consonants
+
+## Day 17
+- Check whether a given string contains all the vowels atleast once
